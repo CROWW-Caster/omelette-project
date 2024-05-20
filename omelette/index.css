@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(248, 225, 191);
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 15px;
+}
+img {
+    width: 480px;
+
+}
+
+div #img {
+    width: 480px;
+    height: 320px;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-top: 0px;
+}
+
+#container {
+    width: 480px;
+    background-color: white;
+    margin: 0px auto;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+#prep {
+    background-color: rgb(248, 225, 191);
+    width: 410px;
+    margin: 0px 20px;
+    padding: 3px 15px;
+    border-radius: 10px;
+}
+
+span {
+    font-weight: 600;
+}
+
+#ingredients, #instruction {
+    border-bottom: 1px solid rgb(228, 228, 228);
+}
+
+#nutrition {
+    margin-bottom: 20px;
+}
+div {
+    margin: 40px 0px;
+}
+
+#header {
+    padding: 0px;
+}
+
+div h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+div table {
+    width: 480px;
+    padding: 0px 20px;
+}
+
+div table tr {
+    border-bottom: 1px solid rgb(202, 199, 194);
+    background-color: rgb(196, 143, 143);
+}
+
+div table tr th {
+    padding-right: 160px;
+    height: 25px;
+    font-weight: lighter;
+    font-size: 12px;
+    border-bottom: 1px solid rgb(202, 199, 194);
+}
+
+.value {
+    color: rgb(209, 31, 0);
+}
+
+h2, h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(189, 31, 3);
+}
